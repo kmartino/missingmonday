@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
 <ModulePrefs 
-    title="__UP_title__" 
+    title="Missing Monday" 
     directory_title="Missing Monday" 
     description="Help find missing children" 
     author="Karl Martino" 
@@ -18,7 +18,6 @@
   <Require feature="setprefs"/>
   <Require feature="tabs"/>
 </ModulePrefs>
-<UserPref name="title" display_name="Gadget Title" default_value="Missing Monday"/>
 <UserPref name="tabFontSize" display_name="Tab Font Size" default_value="0.7em"/>
 <UserPref name="state" display_name="State" datatype="enum" default_value="PA">
   <EnumValue value="AL" display_value="Alabama" /> 
